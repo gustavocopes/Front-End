@@ -1,0 +1,24 @@
+p {
+    font-size: 1cm;
+    font-family: arial, helvetica;
+    font-weight: normal;
+    }
+    h1 {
+    font-size: 2cm;
+    font-family: verdana, arial;
+    text-decoration: underline;
+    text-align: center;
+    background-color: Teal;
+    }
+    body {
+    background-color: #006600;
+    font-family: arial;
+    color: White;
+    }
+    p{
+        font-size: 12mm;
+        font-family: verdana, arial;
+        text-decoration: underline;
+        text-align: left;
+        background-color: brown;  
+    }
